@@ -24,3 +24,5 @@ The script will carry out the following:
  It will return all of this information in a friendly PowerShell Window and can be run quite lightweight to ascertain which users may be having issues.
  
  I also wrote another script which looks up the "ProfileList" key in each of the RDSH's to see if there are any ones with .bak extensions. *Another indicator of temporary profiles*. I may upload this one too but need to remove some client data.
+
+![image](https://user-images.githubusercontent.com/34309084/224012110-eb3d8d63-b28d-4629-bf21-f0fd957fc7a4.png)
