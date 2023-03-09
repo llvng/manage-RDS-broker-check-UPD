@@ -25,4 +25,4 @@ The script will carry out the following:
  
  I also wrote another script which looks up the "ProfileList" key in each of the RDSH's to see if there are any ones with .bak extensions. *Another indicator of temporary profiles*. I may upload this one too but need to remove some client data.
 
-![image](https://user-images.githubusercontent.com/34309084/224012110-eb3d8d63-b28d-4629-bf21-f0fd957fc7a4.png)
+![image](https://user-images.githubusercontent.com/34309084/224012342-9e81958a-fa79-4467-b04d-7eecc4fcddb5.png)
